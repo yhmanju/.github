@@ -4,6 +4,7 @@
 
 - 推荐站：https://yhmanju.github.io/
 - 追剧指南：https://yhmanju.github.io/guide/
+- 完结热门合集：https://yhmanju.github.io/collections/
 - 官网：https://yhmanju.com/?utm_source=yhmanju_github&utm_medium=referral
 - 镜像：https://yhmanju.codeberg.page/ · https://yhmanju.pages.dev/ · https://yhmanju.surge.sh/ · https://yinghuamanju.pages.dev/ · https://sakuramanju.pages.dev/ · https://yhmanju.beacon.host/ · https://yhmanju-guide.pages.dev/ · https://yinghua-manju.pages.dev/ · https://yhmj.pages.dev/
 
